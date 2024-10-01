@@ -1,3 +1,3 @@
 # deneme
 
-yeni deneme
+ikinci deneme
