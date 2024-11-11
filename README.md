@@ -4,6 +4,6 @@ first deneme
 
 iki merge nci 
 
-third deneme
+third son merge deneme
 
 merge deneme
