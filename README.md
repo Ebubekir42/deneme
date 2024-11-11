@@ -2,6 +2,8 @@
 
 first deneme
 
-ikinci 
+iki merge nci 
 
 third deneme
+
+merge deneme
