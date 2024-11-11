@@ -1,6 +1,6 @@
 # deneme
 
-first deneme
+first biliyorum deneme
 
 iki merge nci 
 
